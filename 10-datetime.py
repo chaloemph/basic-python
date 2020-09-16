@@ -1,5 +1,3 @@
-from datetime import datetime, date
-import time
 from datetime import datetime, date, time, timedelta
 now = datetime.now()
 print(now)
